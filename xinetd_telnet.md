@@ -1,4 +1,9 @@
-
+### 설치
+```
+sudo apt-get update
+sudo apt-get install xinetd telnetd
+```
+### 환경설정
 ```
 sudo nano /etc/xinetd.d/telnet
 ```
@@ -15,3 +20,9 @@ service telnet
     log_on_failure += USERID
 }
 ```
+
+### 데몬 실행
+```
+sudo service xinetd restart
+```
+
