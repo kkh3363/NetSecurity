@@ -57,6 +57,7 @@ nmap -sV [target IP]
 ```bash
 nmap --scrip http-enum,http-xssed [target IP]
 ```
+https://nmap.org/docs.html
 
 https://www.stationx.net/nmap-cheat-sheet/
 
