@@ -24,6 +24,7 @@ service telnet
 - :wq 엔터
 
 ### 데몬 실행
+- 재부팅 하기..
 ```
 sudo service xinetd restart
 ```
