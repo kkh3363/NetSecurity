@@ -7,7 +7,7 @@ sudo apt-get install -y xinetd telnetd
 ```
 sudo vi /etc/xinetd.d/telnet
 ```
-- i를 입력해서 명령어 모드
+- i를 입력해서 입력 모드
 ```
 service telnet
 {
