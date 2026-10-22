@@ -7,7 +7,7 @@ sudo apt-get install -y xinetd telnetd
 ```
 sudo vi /etc/xinetd.d/telnet
 ```
-
+- i를 입력해서 명령어 모드
 ```
 service telnet
 {
@@ -20,6 +20,8 @@ service telnet
     log_on_failure += USERID
 }
 ```
+- esc 키로 명령어모드로 이동
+- :wq 엔터
 
 ### 데몬 실행
 ```
