@@ -1,7 +1,7 @@
 ### 설치
 ```
 sudo apt-get update
-sudo apt-get install xinetd telnetd
+sudo apt-get install -y xinetd telnetd
 ```
 ### 환경설정
 ```
