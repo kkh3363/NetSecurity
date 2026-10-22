@@ -5,7 +5,7 @@ sudo apt-get install -y xinetd telnetd
 ```
 ### 환경설정
 ```
-sudo nano /etc/xinetd.d/telnet
+sudo vi /etc/xinetd.d/telnet
 ```
 
 ```
