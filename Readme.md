@@ -14,4 +14,4 @@
 
 ### 프로그램
 - https://nmap.org/download#windows
-- 
+- [우분트 워크스테이션](https://mirror.kakao.com/ubuntu-releases/20.04.6/ubuntu-20.04.6-desktop-amd64.iso)
