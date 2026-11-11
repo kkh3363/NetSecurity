@@ -5,6 +5,7 @@
 - 반디집(https://kr.bandisoft.com/bandizip/dl.php?web)
 - Kali-linux(https://cdimage.kali.org/kali-2026.2/kali-linux-2026.2-vmware-amd64.7z)
 - Bee-box(https://sourceforge.net/projects/bwapp/files/bee-box/bee-box_v1.6.7z/download)
+- [우분트 워크스테이션](https://mirror.kakao.com/ubuntu-releases/20.04.6/ubuntu-20.04.6-desktop-amd64.iso)
 
 ### 보안관련 링크
 - https://kr.tenable.com/cybersecurity-guide
@@ -14,4 +15,4 @@
 
 ### 프로그램
 - https://nmap.org/download#windows
-- [우분트 워크스테이션](https://mirror.kakao.com/ubuntu-releases/20.04.6/ubuntu-20.04.6-desktop-amd64.iso)
+
