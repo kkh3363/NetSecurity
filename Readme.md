@@ -6,6 +6,7 @@
 - Kali-linux(https://cdimage.kali.org/kali-2026.2/kali-linux-2026.2-vmware-amd64.7z)
 - Bee-box(https://sourceforge.net/projects/bwapp/files/bee-box/bee-box_v1.6.7z/download)
 - [우분트 서버](https://mirror.kakao.com/ubuntu-releases/24.04.5.1/ubuntu-24.04.5-live-server-amd64.iso)
+- [Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
 ### 보안관련 링크
 - https://kr.tenable.com/cybersecurity-guide
