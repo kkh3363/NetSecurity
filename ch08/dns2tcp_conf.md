@@ -10,6 +10,9 @@ domain = dns2tcp.wishfree.com
 key = secret_key
 resources = ssh:127.0.0.1:22
 ```
+```
+(sudo) dns2tcpd -d 3 -f ./dns2tcpd_config
+```
 
 - 특정 포트 상태 확인
   ```
