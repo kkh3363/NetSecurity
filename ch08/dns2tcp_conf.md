@@ -1,5 +1,5 @@
 
-### /etc/dns2tcpd_config
+### 서버에서 ./dns2tcpd_config
 ```
 listen = 0.0.0.0
 port = 53
@@ -7,13 +7,27 @@ user = nobody
 chroot = /home/nobody
 pid_file = /var/run/dns2tcp.pid
 domain = dns2tcp.wishfree.com
-key = secret_key
+key = secretkey
 resources = ssh:127.0.0.1:22
 ```
 ```
 (sudo) dns2tcpd -d 3 -f ./dns2tcpd_config
 ```
 
+### 클라이언트 설정 ./dns2tcpc_config
+```
+domain = dns2tcp.wishfree.com
+resource = ssh
+local_port = 2222
+key = secret_key
+debug_level = 3
+server = 192.168.138.132
+```
+```
+sudo dns2tcpc -f ./dns2tcp_config
+```
+
+## 문제 해결
 - 특정 포트 상태 확인
   ```
    netstat -anp | grep :53
