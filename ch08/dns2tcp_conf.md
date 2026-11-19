@@ -19,7 +19,7 @@ resources = ssh:127.0.0.1:22
 domain = dns2tcp.wishfree.com
 resource = ssh
 local_port = 2222
-key = secret_key
+key = secretkey
 debug_level = 3
 server = 192.168.138.132
 ```
