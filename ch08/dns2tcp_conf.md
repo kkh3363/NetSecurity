@@ -23,8 +23,11 @@ key = secretkey
 debug_level = 3
 server = 192.168.138.132
 ```
+- vi /etc/hosts
+  ```
+  192.168.133.130  dns2tcp.wishfree.com
 ```
-sudo dns2tcpc -f ./dns2tcp_config
+- sudo dns2tcpc -f ./dns2tcp_config
 ```
 
 ## 문제 해결
