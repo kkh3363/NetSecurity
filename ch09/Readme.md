@@ -1,8 +1,9 @@
 
 1. 소스 코드 다운로드
-https://github.com/kkh3363/NetSecurity/blob/main/ch09/shijack.gz
+ 1. https://github.com/kkh3363/NetSecurity/blob/main/ch09/shijack.gz
+ 2. wget http://116.68.36.26/shijack.gz
 
-2. 압축풀기
+3. 압축풀기
 ```
 tar xvzf shijack.gz
 ```
