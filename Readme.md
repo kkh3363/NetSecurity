@@ -6,7 +6,7 @@
 - Kali-linux(https://cdimage.kali.org/kali-2026.2/kali-linux-2026.2-vmware-amd64.7z)
 - Bee-box(https://sourceforge.net/projects/bwapp/files/bee-box/bee-box_v1.6.7z/download)
 - [우분트 서버 설치 iso](https://mirror.kakao.com/ubuntu-releases/24.04.5.1/ubuntu-24.04.5-live-server-amd64.iso)
-- 우분투 설치 된 이미지는 nCyber 공지사항에서 다운로드
+- 우분투 설치 된 이미지는 nCyber 공지사항에서 다운로드  | 학교에서만 [다운로드](http://116.68.36.26/ubuntu_server.zip)
 - [Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
 ### 보안관련 링크
